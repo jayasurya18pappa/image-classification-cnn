@@ -13,3 +13,11 @@ Python, TensorFlow, OpenCV
 1. Install requirements
 2. Run train.py
 3. Run predict.py
+
+## Output
+
+### Training Result
+![Training](output/training_result.png)
+
+### Prediction Result
+![Prediction](output/prediction_result.png)
