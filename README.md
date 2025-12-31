@@ -17,6 +17,6 @@ Python, TensorFlow, OpenCV
 ## Output
 
 ### Training Result
-![Training](output/result2.png)
+![Training](output/result2.jpg)
 
 
