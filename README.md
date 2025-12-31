@@ -16,7 +16,9 @@ Python, TensorFlow, OpenCV
 
 ## Output
 
-### Training Result
+### Predicted Result
 ![Training](output/result2.jpg)
+(output/result1.jpg)
+(output/result3.jpg)
 
 
